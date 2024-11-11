@@ -5,7 +5,7 @@
         <span>Иваненко Виолетта</span>
         </h1>
         <!-- Put a small paragraph about yourself -->
-        <p>Руководитеот группы аналитиков.</p>
+        <p>Руководитель группы аналитиков.</p>
         <a href="#contact" class="btn btn--pink">Get in touch</a>
     </div>
 </div>
