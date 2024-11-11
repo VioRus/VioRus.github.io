@@ -3,7 +3,7 @@
 <h3>Руководитель группы аналитиков</h3>
 </div>
 <div id="socials" align="center">
-<a https://t.me/VioRus="telegram-url">
+<a href="[telegram-url](https://t.me/VioRus)">
 <img src="https://img.shields.io/badge/Telegram-blue?style-for-the- badge&logo-telegram&logoColor=white" alt="Telegram"/>
 </a>
 </div>
