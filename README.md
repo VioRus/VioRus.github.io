@@ -7,15 +7,14 @@
         <!-- Put a small paragraph about yourself -->
         <p>Руководитель группы аналитиков.</p>
         <a href="#contact" class="btn btn--pink">Get in touch</a>
-    </div>
-</div>
-<div class="work__box">
+   <div class="Проекты в роли аналитика>
     <div class="work__text">
     <h3>Portfolio Template</h3>
     <p>
-        A free Open Source Portfolio for anyone to use for free.
+   Модуль заработной платы (веб-сервис) для сервис-инженеров
+Описание: модуль позволяет отслеживать статусы выполненных работ, детализацию заработка и удержаний по каждому наряду в разрезе зарплаты и аванса включая архивные данные..
     </p>
-    <ul class="work__list">
+    <ul class="Проекты в роли руководителя направления аналитики">
         <li>HTML</li>
         <li>SCSS</li>
         <li>JavaScript</li>
