@@ -1,7 +1,4 @@
-
-
-
-<div align="center">
+<div id="header" align="center">
 <h2>Привет, я Иваненко </h2>
 <h2>Руководитель группы аналитиков</h2>
 </div>          
